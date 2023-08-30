@@ -1,0 +1,14 @@
+{
+    "name": "Dog",
+    "description": "3D render of a pink balloon dog in a violet room",
+    "image": "ipfs://QmTenMs3CjdmPAFgW3qvYhM4TQ5BAxYPLgWYZ4DABHnz4T/2.png", 
+    "atmosphere": "starry night",
+    "style": "stars",
+    "attributes": {
+      "weather": "chilling",
+      "object": "stars",
+      "location": "Mars"
+    },
+    "token_id": 2 
+  }
+  

@@ -1,0 +1,14 @@
+{
+    "name": "Sketch",
+    "description": "An abstract visual of artificial intelligence",
+    "image": "ipfs://QmTenMs3CjdmPAFgW3qvYhM4TQ5BAxYPLgWYZ4DABHnz4T/4.png", 
+    "advertisment": "coldrink",
+    "style": "advertising",
+    "attributes": {
+      "color": "yellow",
+      "object": "bottle",
+      "location": "side wall"
+    },
+    "token_id": 4 
+  }
+  

@@ -1,0 +1,14 @@
+{
+    "name": "sculpture",
+    "description": "A photo of Michelangelo's sculpture of David wearing headphones djing",
+    "image": "ipfs://QmTenMs3CjdmPAFgW3qvYhM4TQ5BAxYPLgWYZ4DABHnz4T/1.png", 
+    "atmosphere": "clear",
+    "style": "Beauty",
+    "attributes": {
+      "weather": "sunny",
+      "object": "house",
+      "location": "Mussourie"
+    },
+    "token_id": 1 
+  }
+  

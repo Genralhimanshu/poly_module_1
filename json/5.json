@@ -1,0 +1,14 @@
+{
+    "name": "Art",
+    "description": "An abstract oil painting of a river",
+    "image": "ipfs://QmTenMs3CjdmPAFgW3qvYhM4TQ5BAxYPLgWYZ4DABHnz4T/5.png", 
+    "animal": "bear",
+    "style": "sitting",
+    "attributes": {
+      "color": "brown",
+      "object": "bear",
+      "location": "China"
+    },
+    "token_id": 5 
+  }
+  

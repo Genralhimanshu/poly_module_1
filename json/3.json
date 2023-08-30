@@ -1,0 +1,14 @@
+{
+    "name": "Car",
+    "description": "A hand drawn sketch of a Porsche 911",
+    "image": "ipfs://QmTenMs3CjdmPAFgW3qvYhM4TQ5BAxYPLgWYZ4DABHnz4T/3.png", 
+    "atmosphere": "sunny",
+    "style": "cowboy vibes",
+    "attributes": {
+      "weather": "clear",
+      "object": "astronaut",
+      "location": "water planet"
+    },
+    "token_id": 3 
+  }
+  
